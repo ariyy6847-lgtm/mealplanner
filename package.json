@@ -1,0 +1,11 @@
+{
+  "name": "mealplanner",
+  "version": "1.0.0",
+  "description": "Plans a week of meals from a recipe list and generates a shopping list.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "MIT"
+}
