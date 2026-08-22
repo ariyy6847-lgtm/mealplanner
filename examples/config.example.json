@@ -1,0 +1,6 @@
+{
+  "name": "MealPlanner",
+  "enabled": true,
+  "verbose": false,
+  "output_dir": "./out"
+}
